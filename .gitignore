@@ -1,1 +1,2 @@
 video_files/*
+!video_files/*.jpg
