@@ -6796,8 +6796,8 @@
    "type": "message",
    "date": "2023-07-18T17:37:50",
    "date_unixtime": "1689673070",
-   "edited": "2023-07-18T17:39:38",
-   "edited_unixtime": "1689673178",
+   "edited": "2025-06-27T15:29:49",
+   "edited_unixtime": "1751009389",
    "from": "川陀大学图书馆",
    "from_id": "channel1878264527",
    "author": "Daneel God",
@@ -41460,7 +41460,7 @@
    "from": "川陀大学图书馆",
    "from_id": "channel1878264527",
    "author": "Daneel God",
-   "file": "(File unavailable, please try again later)",
+   "file": "video_files/video_3@27-08-2023_16-01-55.mp4",
    "file_size": 475252530,
    "thumbnail": "video_files/video_3@27-08-2023_16-01-55.mp4_thumb.jpg",
    "thumbnail_file_size": 1198,
@@ -83821,7 +83821,7 @@
    "reactions": [
      {
       "type": "emoji",
-      "count": 21,
+      "count": 23,
       "emoji": "🤯"
      },
      {
@@ -90852,12 +90852,12 @@
      {
       "type": "emoji",
       "count": 1,
-      "emoji": "👍"
+      "emoji": "❤"
      },
      {
       "type": "emoji",
       "count": 1,
-      "emoji": "❤"
+      "emoji": "👍"
      }
     ]
   },
@@ -109172,12 +109172,12 @@
      {
       "type": "emoji",
       "count": 1,
-      "emoji": "👍"
+      "emoji": "❤"
      },
      {
       "type": "emoji",
       "count": 1,
-      "emoji": "❤"
+      "emoji": "👍"
      }
     ]
   },
@@ -109590,12 +109590,12 @@
      {
       "type": "emoji",
       "count": 2,
-      "emoji": "👍"
+      "emoji": "❤"
      },
      {
       "type": "emoji",
       "count": 2,
-      "emoji": "❤"
+      "emoji": "👍"
      }
     ]
   },
@@ -110319,6 +110319,11 @@
       "type": "emoji",
       "count": 1,
       "emoji": "👍"
+     },
+     {
+      "type": "emoji",
+      "count": 1,
+      "emoji": "👎"
      }
     ]
   },
@@ -126123,7 +126128,7 @@
    "reactions": [
      {
       "type": "emoji",
-      "count": 11,
+      "count": 12,
       "emoji": "❤"
      }
     ]
@@ -129078,12 +129083,12 @@
      {
       "type": "emoji",
       "count": 1,
-      "emoji": "👎"
+      "emoji": "❤"
      },
      {
       "type": "emoji",
       "count": 1,
-      "emoji": "❤"
+      "emoji": "👎"
      },
      {
       "type": "emoji",
@@ -132258,12 +132263,12 @@
      {
       "type": "emoji",
       "count": 1,
-      "emoji": "👍"
+      "emoji": "❤"
      },
      {
       "type": "emoji",
       "count": 1,
-      "emoji": "❤"
+      "emoji": "👍"
      }
     ]
   },
@@ -133881,6 +133886,11 @@
    "text": "",
    "text_entities": [],
    "reactions": [
+     {
+      "type": "emoji",
+      "count": 1,
+      "emoji": "❤"
+     },
      {
       "type": "emoji",
       "count": 1,
@@ -141824,7 +141834,7 @@
    "poll": {
     "question": "请问你是否在频道内看到过广告？",
     "closed": false,
-    "total_voters": 108,
+    "total_voters": 109,
     "answers": [
      {
       "text": "有",
@@ -141833,7 +141843,7 @@
      },
      {
       "text": "没有",
-      "voters": 37,
+      "voters": 38,
       "chosen": false
      },
      {
@@ -145511,12 +145521,12 @@
      {
       "type": "emoji",
       "count": 1,
-      "emoji": "👍"
+      "emoji": "❤"
      },
      {
       "type": "emoji",
       "count": 1,
-      "emoji": "❤"
+      "emoji": "👍"
      }
     ]
   },
@@ -146080,7 +146090,7 @@
    "reactions": [
      {
       "type": "emoji",
-      "count": 1,
+      "count": 2,
       "emoji": "❤"
      }
     ]
@@ -146740,7 +146750,7 @@
    "reactions": [
      {
       "type": "emoji",
-      "count": 21,
+      "count": 22,
       "emoji": "👍"
      }
     ]
@@ -146750,8 +146760,8 @@
    "type": "message",
    "date": "2025-02-08T23:47:49",
    "date_unixtime": "1739029669",
-   "edited": "2025-02-17T16:23:00",
-   "edited_unixtime": "1739780580",
+   "edited": "2025-08-30T16:46:36",
+   "edited_unixtime": "1756543596",
    "from": "川陀大学图书馆",
    "from_id": "channel1878264527",
    "reply_to_message_id": 1031,
@@ -146804,7 +146814,19 @@
      "text": "In addition, any downstream projects not affiliated with MetaCubeX shall not contain the word mihomo in their names.",
      "collapsed": false
     },
-    "\n- Mihomo Party 原项目已在其频道对相关事件进行解释。个人对内容不作评价，我认为读者有辨别是非的能力。但其行文及人物指代，读者可能需要花费一番功夫才能读懂。\n- 经提醒，该频道已对此公告部分人物指代相关表述进行修改。［2025年2月11日（UTC+8）］\n\n＞ 副本：",
+    "\n- Mihomo Party 原项目已在其频道对相关事件进行解释。个人对内容不作评价，我认为读者有辨别是非的能力。但其行文及人物指代，读者可能需要花费一番功夫才能读懂。\n- 经提醒，该频道已对此公告部分人物指代相关表述进行修改。［2025年2月11日（UTC+8）］\n\n- 补充：Mihomo-Party 已",
+    {
+     "type": "text_link",
+     "text": "改名",
+     "href": "https://github.com/mihomo-party-org/clash-party/commit/0c38d3eb26dafb3da59ced741ac4d5c044845c96"
+    },
+    "为 Clash Party。［2025年8月30日］\n",
+    {
+     "type": "blockquote",
+     "text": "项目名称改为Clash Party ，预计明天完成\nLogo图标等下一步",
+     "collapsed": false
+    },
+    "\n\n\n＞ 副本：",
     {
      "type": "text_link",
      "text": "TG101",
@@ -146927,7 +146949,25 @@
     },
     {
      "type": "plain",
-     "text": "\n- Mihomo Party 原项目已在其频道对相关事件进行解释。个人对内容不作评价，我认为读者有辨别是非的能力。但其行文及人物指代，读者可能需要花费一番功夫才能读懂。\n- 经提醒，该频道已对此公告部分人物指代相关表述进行修改。［2025年2月11日（UTC+8）］\n\n＞ 副本："
+     "text": "\n- Mihomo Party 原项目已在其频道对相关事件进行解释。个人对内容不作评价，我认为读者有辨别是非的能力。但其行文及人物指代，读者可能需要花费一番功夫才能读懂。\n- 经提醒，该频道已对此公告部分人物指代相关表述进行修改。［2025年2月11日（UTC+8）］\n\n- 补充：Mihomo-Party 已"
+    },
+    {
+     "type": "text_link",
+     "text": "改名",
+     "href": "https://github.com/mihomo-party-org/clash-party/commit/0c38d3eb26dafb3da59ced741ac4d5c044845c96"
+    },
+    {
+     "type": "plain",
+     "text": "为 Clash Party。［2025年8月30日］\n"
+    },
+    {
+     "type": "blockquote",
+     "text": "项目名称改为Clash Party ，预计明天完成\nLogo图标等下一步",
+     "collapsed": false
+    },
+    {
+     "type": "plain",
+     "text": "\n\n\n＞ 副本："
     },
     {
      "type": "text_link",
@@ -147888,6 +147928,11 @@
       "type": "emoji",
       "count": 11,
       "emoji": "👍"
+     },
+     {
+      "type": "emoji",
+      "count": 1,
+      "emoji": "🥰"
      }
     ]
   },
@@ -152471,7 +152516,7 @@
    "reactions": [
      {
       "type": "emoji",
-      "count": 4,
+      "count": 5,
       "emoji": "👍"
      }
     ]
@@ -152770,12 +152815,12 @@
    "reactions": [
      {
       "type": "emoji",
-      "count": 88,
+      "count": 110,
       "emoji": "😭"
      },
      {
       "type": "emoji",
-      "count": 21,
+      "count": 31,
       "emoji": "🫡"
      },
      {
@@ -152785,13 +152830,38 @@
      },
      {
       "type": "emoji",
-      "count": 2,
+      "count": 5,
       "emoji": "👍"
      },
      {
       "type": "emoji",
       "count": 2,
       "emoji": "💋"
+     },
+     {
+      "type": "emoji",
+      "count": 1,
+      "emoji": "👎"
+     },
+     {
+      "type": "emoji",
+      "count": 1,
+      "emoji": "😁"
+     },
+     {
+      "type": "emoji",
+      "count": 1,
+      "emoji": "💩"
+     },
+     {
+      "type": "emoji",
+      "count": 1,
+      "emoji": "😐"
+     },
+     {
+      "type": "emoji",
+      "count": 1,
+      "emoji": "💊"
      }
     ]
   },
