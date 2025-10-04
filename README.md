@@ -36,3 +36,4 @@
 - 如稿件标记为“原创”（#B_原创），则以 [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh-hans) 许可证发布。
 
 - 如稿件不符合上述任意一种情况，则均以 [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/deed.zh-hans) 许可证发布。
+
