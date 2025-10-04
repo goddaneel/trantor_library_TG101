@@ -1,2 +1,0 @@
-export/video_files/*
-!export/video_files/*.jpg
